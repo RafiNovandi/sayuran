@@ -1,0 +1,8 @@
+[
+    {"nama": "Tomat", "namaLatin": "Solanum lycopersicum", "imageId": "tomat"},
+    {"nama": "Wortel", "namaLatin": "Daucus carota subsp. sativus", "imageId": "wortel"},
+    {"nama": "Pakcoy", "namaLatin": "Brassica rapa subsp. chinensis", "imageId": "paksocy"},
+    {"nama": "Paprika", "namaLatin": "Capsicum annuum L", "imageId": "paprika"},
+    {"nama": "Kol Putih", "namaLatin": "Brassica oleracea var. capitata", "imageId": "kolputih"},
+  
+]
