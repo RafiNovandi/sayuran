@@ -1,7 +1,7 @@
 [
-    {"nama": "Tomat", "namaLatin": "Solanum lycopersicum", "imageId": "tomat.jpg"},
-    {"nama": "Wortel", "namaLatin": "Daucus carota subsp. sativus", "imageId": "wortel.jpg"},
-    {"nama": "Pakcoy", "namaLatin": "Brassica rapa subsp. chinensis", "imageId": "pakcoy.jpg"},
-    {"nama": "Paprika", "namaLatin": "Capsicum annuum L", "imageId": "paprika.jpg"},
-    {"nama": "Kol Putih", "namaLatin": "Brassica oleracea var. capitata", "imageId": "kol.jpg"}
+    {"nama": "Tomat", "namaLatin": "Solanum lycopersicum", "imageId": "tomat"},
+    {"nama": "Wortel", "namaLatin": "Daucus carota subsp. sativus", "imageId": "wortel"},
+    {"nama": "Pakcoy", "namaLatin": "Brassica rapa subsp. chinensis", "imageId": "pakcoy"},
+    {"nama": "Paprika", "namaLatin": "Capsicum annuum L", "imageId": "paprika"},
+    {"nama": "Kol Putih", "namaLatin": "Brassica oleracea var. capitata", "imageId": "kol"}
 ]
